@@ -7,10 +7,8 @@
     '.(    )..-.(      )/     )/'._.'   )/    )/     )/    for Windows
 -----------------------------------------------------------------------
 
-This NetCat for Windows was originally created by Rodney Beede, it's
-a version compiled without the GAPING_SECURITY_HOLE option (-e switch)
-which can trigger false positives in anti-virus programs. Check the
-file readme.rodneybeede.txt for further details.
+このWindows用NetCatは、もともとRodney Beedeによって開発されたもので、GAPING_SECURITY_HOLEオプション（-eオプション）なしでコンパイルされたバージョンです。
+以下のファイルを参照してください。
 
 Why am I creating this version, you may ask? Well, during some of my
 telnet sessions i've noticed extraneous characters being returned and
